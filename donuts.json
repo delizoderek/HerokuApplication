@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Maple Bar",
+        "rating": 10,
+        "price": 1.99
+    },
+    {
+        "name": "Old-Fashioned",
+        "rating": 5,
+        "price": 2.99
+    },
+    {
+        "name": "Glazed",
+        "rating": 4,
+        "price": 1.5
+    },
+    {
+        "name": "Jelly Filled",
+        "rating": 7,
+        "price": 2.99
+    },
+    {
+        "name": "Boba",
+        "rating": 5,
+        "price": 5.99
+    },
+    {
+        "name": "Matcha",
+        "rating": 10,
+        "price": 5.99
+    }
+]
